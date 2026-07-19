@@ -1,0 +1,33 @@
+# Output directories
+logo_output/
+logo_output_batch/
+outputs/
+uploads/
+
+# Generated images
+*.png
+!README*.png
+
+# Test/debug files
+test_output.txt
+ssh_copy_key.py
+ssh_test.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
