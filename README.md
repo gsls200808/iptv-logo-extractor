@@ -93,6 +93,19 @@ logo_output_batch/
   └── progress.log            # 进度日志
 ```
 
+## 示例
+
+以下是从辽宁移动 IPTV 播放列表中识别的部分台标（点击可查看原图）：
+
+| 央视 | 卫视 |
+|------|------|
+| ![CCTV1](images/cctv1.png) | ![湖南卫视](images/hunan_tv.png) |
+| ![CCTV3](images/cctv3.png) | ![北京卫视](images/beijing_tv.png) |
+| | ![东方卫视](images/dongfang_tv.png) |
+| | ![浙江卫视](images/zhejiang_tv.png) |
+
+> 识别并不完美。部分频道由于流质量、隔行扫描、静态画面等原因，提取效果可能不理想。
+
 ## 技术细节
 
 ### 分辨率自适应

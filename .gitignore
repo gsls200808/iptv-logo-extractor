@@ -7,6 +7,7 @@ uploads/
 # Generated images
 *.png
 !README*.png
+!images/*.png
 
 # Test/debug files
 test_output.txt
